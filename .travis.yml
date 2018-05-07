@@ -13,6 +13,5 @@ before_install:
         - cd ../../../..
 
 script:
-        - make clean
         - make
         - ./Randomizer
